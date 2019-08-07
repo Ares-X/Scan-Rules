@@ -1,0 +1,4 @@
+console/login/LoginForm.jsp
+wls-wsat/CoordinatorPortType
+_async/AsyncResponseService
+ws_utc/config.do
