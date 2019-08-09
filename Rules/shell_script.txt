@@ -1,0 +1,9 @@
+install.sh
+deploy.sh
+upload.sh
+setup.sh
+backup.sh
+rsync.sh
+sync.sh
+test.sh
+run.sh
