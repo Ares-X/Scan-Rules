@@ -1,7 +1,0 @@
-config/config_ucenter.php.bak
-config/.config_ucenter.php.swp
-config/.config_global.php.swp
-config/config_global.php.1
-uc_server/data/config.inc.php.bak
-config/config_global.php.bak
-include/config.inc.php.tmp

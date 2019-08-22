@@ -1,8 +1,0 @@
-/fckeditor/_samples/default.html
-/ckeditor/samples/
-/editor/ckeditor/samples/
-/ckeditor/samples/sample_posteddata.php
-/editor/ckeditor/samples/sample_posteddata.php
-/fck/editor/dialog/fck_spellerpages/spellerpages/server-scripts/spellchecker.php
-/fckeditor/editor/dialog/fck_spellerpages/spellerpages/server-scripts/spellcheckder.php
-/ueditor/php/getRemoteImage.php
